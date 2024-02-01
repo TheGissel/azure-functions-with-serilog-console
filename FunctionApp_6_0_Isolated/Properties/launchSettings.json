@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionApp_6_0_Isolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7249",
+      "launchBrowser": false
+    }
+  }
+}
